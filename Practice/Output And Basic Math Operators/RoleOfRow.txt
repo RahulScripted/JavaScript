@@ -1,0 +1,14 @@
+What is the role of = in the below code? let x = 10; Select one of the following options:
+
+1.  Decrement by 1
+
+2.  Increment by 1
+
+3.  Assignment operator
+
+4.  None of the above
+
+
+
+
+Answer: 3.  Assignment operator

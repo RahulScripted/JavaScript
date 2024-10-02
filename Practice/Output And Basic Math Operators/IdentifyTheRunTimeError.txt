@@ -1,0 +1,14 @@
+Which of the following will give a Runtime Error Select one of the following options:
+
+1.  console.log(2);
+
+2.  console.log(4 / 0);
+
+3.  console.log('9' * 3);
+
+4.  None of above.
+
+
+
+
+Answer: 4.  None of above.

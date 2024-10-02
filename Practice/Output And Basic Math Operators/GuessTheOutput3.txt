@@ -1,0 +1,21 @@
+What does the following code achieve?
+
+console.log(5);
+console.log(6);
+console.log(7);
+
+
+Select one of the following options:
+
+1.  Prints three numbers on separate lines
+
+2.  Prints three numbers on the same line
+
+3.  Prints one number on the first line, two numbers on the next line
+
+4.  Throws a compilation error
+
+
+
+
+Answer: 1.  Prints three numbers on separate lines

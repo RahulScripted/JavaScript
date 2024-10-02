@@ -1,0 +1,14 @@
+How can you print the result of 6 divided by 2? Select one of the following options:
+
+1.  console.log(6 / 2)
+
+2.  console.log("6" / "2")
+
+3.  console.log('6'/ '2')
+
+4.  None of the above
+
+
+
+
+Answer: 1.  console.log(6 / 2)

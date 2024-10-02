@@ -1,0 +1,14 @@
+To print "JS" and "Programming" on the same line without a space in between, you would write: Select one of the following options:
+
+1.  console.log("JS Programming");
+
+2.  console.log("JS", "Programming");
+
+3.  console.log("JS" + "Programming");
+
+4.  console.log("JS" + "  Programming");
+
+
+
+
+Answer: 3.  console.log("JS" + "Programming");

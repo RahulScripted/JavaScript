@@ -1,0 +1,14 @@
+What does the following code snippet do? console.log(11 + 31);Select one of the following options:
+
+1.  Reads two numbers from the console
+
+2.  Adds two numbers and prints the result
+
+3.  Multiplies two numbers and prints the result
+
+4.  None of the above
+
+
+
+
+Answer: 2.  Adds two numbers and prints the result

@@ -1,0 +1,19 @@
+Identify the correct syntax from the options below. Select options from following :
+
+1.  /* I am a comment */
+
+2.  // I am a comment 
+
+3.  # I am a comment 
+
+4.  <!-- I am a comment -->
+
+
+
+
+
+Answers:
+
+1.  /* I am a comment */
+
+2.  // I am a comment 

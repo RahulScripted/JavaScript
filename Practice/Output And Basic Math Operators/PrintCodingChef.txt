@@ -1,0 +1,14 @@
+How would you print the below text? Coding, Chef! Select one of the following options:
+
+1.  console.log("Coding, Chef!");
+
+2.  System.out.println("Coding, Chef!");
+
+3.  print("Coding, Chef!")
+
+4.  printf("Coding, Chef!");
+
+
+
+
+Answer: 1.  console.log("Coding, Chef!");

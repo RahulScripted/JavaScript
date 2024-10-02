@@ -1,0 +1,14 @@
+What is the correct syntax for printing the number 5? Select one of the following options:
+
+1.  cat(5)
+
+2.  display(5);
+
+3.  console.log(5);
+
+4.  print(5)
+
+
+
+
+Answer: 3.  console.log(5);

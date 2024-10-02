@@ -1,0 +1,26 @@
+What does the following code print?
+
+console.log("Code");
+console.log("chef");
+
+
+
+Select one of the following options:
+
+1.  Code
+    chef
+
+2.  "Code"
+    "chef"
+
+3.  "Code chef"
+
+4.  Code chef
+
+
+
+
+Answer:
+
+1.  Code
+    chef
