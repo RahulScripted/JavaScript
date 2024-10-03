@@ -1,0 +1,21 @@
+What will the following code output?
+
+let part1 = "codechef is";
+let part2 = "awesome";
+console.log(part1 + " " + part2);
+
+
+Select one of the following options:
+
+1.  codechef is awesome
+
+2.  Compilation Error
+
+3.  Runtime Error
+
+4.  "codechef is awesome"
+
+
+
+
+Answer: 1.  codechef is awesome

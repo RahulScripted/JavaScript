@@ -1,0 +1,19 @@
+Guess the output of following code
+
+let sequence = [1, 2, 3, 4];
+console.log(sequence);
+
+Select one of the following options:
+
+1.  Compilation Error
+
+2.  Runtime Error
+
+3.  4 3 2 1
+
+4.  1 2 3 4
+
+
+
+
+Answer: 4.  1 2 3 4

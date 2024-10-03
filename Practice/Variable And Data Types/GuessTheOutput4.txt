@@ -1,0 +1,30 @@
+Guess the output of following code
+
+let x = 214.7487;
+let y = 21257448;
+console.log(typeof x);
+console.log(typeof y);
+
+
+
+Select one of the following options:
+
+1.  integer
+    integer
+
+2.  number
+    number
+
+3.  integer
+    float
+
+4.  Compilation Error
+
+
+
+
+
+Answer: 
+
+2.  number
+    number

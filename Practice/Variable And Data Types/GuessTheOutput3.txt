@@ -1,0 +1,39 @@
+What is the output of following code ?
+
+let x = 1; 
+let y = 2.6;  
+let z = "2 + 3i";
+
+console.log(typeof x);
+console.log(typeof y);
+console.log(typeof z);
+
+
+
+Select one of the following options:
+
+1.  integer
+    integer
+    complex
+
+2.  integer
+    numeric
+    complex
+
+3.  integer
+    integer
+    integer
+
+4.  number
+    number
+    string
+
+
+
+
+
+Answer: 
+
+4.  number
+    number
+    string

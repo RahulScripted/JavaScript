@@ -1,0 +1,14 @@
+How do you declare a string variable named "hello" with the value "World"? Select one of the following options:
+
+1.  let hello = "world";
+
+2.  let hello = "World";
+
+3.  "hello" = "World";
+
+4.  hello = "worLd";
+
+
+
+
+Answer: 2.  let hello = "World";

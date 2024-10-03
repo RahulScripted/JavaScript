@@ -1,0 +1,32 @@
+What will be the output of the following?
+
+let x = "64";
+let y = 8;
+console.log(x/y);
+console.log(x*y);
+console.log(x-y);
+
+
+Select one of the following options:
+
+1.  8
+    512
+    56
+
+2.  8
+    "512"
+    "56"
+
+3.  error 
+
+4.  64
+    512
+    56
+
+
+
+Answer: 
+
+1.  8
+    512
+    56

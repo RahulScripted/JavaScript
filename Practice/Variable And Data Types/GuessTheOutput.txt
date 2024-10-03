@@ -1,0 +1,20 @@
+What does the following code represent?
+
+let x = 20;
+console.log(x);
+
+
+Select one of the following options:
+
+1.  printing variable x 
+
+2.  Storing the value 20 in x and then printing it
+
+3.  Declaring the x as a constant
+
+4.  Initializing a boolean variable
+
+
+
+
+Answer: 2.  Storing the value 20 in x and then printing it

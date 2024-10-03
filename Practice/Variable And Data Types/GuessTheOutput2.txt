@@ -1,0 +1,21 @@
+What is the output of the following code?
+
+let x = "55.56";
+let y = 88;
+console.log(x + y);
+
+
+Select one of the following options:
+
+1.  143.56
+
+2.  55.56 88
+
+3.  55.56 + 88
+
+4.  55.5688
+
+
+
+
+Answer: 4.  55.5688

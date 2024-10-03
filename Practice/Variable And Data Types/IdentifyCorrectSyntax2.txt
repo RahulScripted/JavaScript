@@ -1,0 +1,23 @@
+Consider the following code snippets:
+
+let x = Boolean("true");
+let x = Boolean("False");
+let x = Boolean(300);
+let x = true;
+
+
+Which of the following statements correctly describes the boolean value of x in each case?
+
+1.  For all cases, x is true.
+
+2.  x is true for the first and third snippets, and false for the second and fourth snippets.
+
+3.  x is true for all snippets except the second.
+
+4.  x is false for all cases except the fourth.
+
+
+
+
+
+Answer: 1.  For all cases, x is true.

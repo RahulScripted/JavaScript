@@ -1,0 +1,20 @@
+Guess the Output of following code
+
+let x = 10 == 9;
+console.log(x);
+
+Select one of the following options:
+
+1.  TRUE
+
+2.  false
+
+3.  true
+
+4.  FALSE
+
+
+
+
+
+Answer: 2.  false
