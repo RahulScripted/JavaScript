@@ -1,0 +1,21 @@
+What is the output of the following code snippet?
+
+let x = "Learning on Codechef";
+console.log(x.length);
+
+
+
+Select one of the following options:
+
+1.  19
+
+2.  20
+
+3.  21
+
+4.  22
+
+
+
+
+Answer: 2.  20

@@ -1,0 +1,21 @@
+what will be the output of following code :
+
+let x = 'Backslash is used to print a \\\ quote';
+console.log(x);
+
+
+Select one of the following options:
+
+1.  Runtime Error
+
+2.  Compilation Error
+
+3.  Backslash is used to print a \ quote
+
+4.  Backslash is used to print a quote
+
+
+
+
+
+Answer: 3.  Backslash is used to print a \ quote

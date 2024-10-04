@@ -1,0 +1,20 @@
+What is the output of the following code snippet?
+
+let y = "She said, \"JavaScript is fun!\"";
+console.log(y);
+
+
+Select one of the following options:
+
+1.  She said, "JavaScript is fun!"
+
+2.  She said, \"JavaScript is fun!\"
+
+3.  Compilation Error
+
+4.  Runtime Error
+
+
+
+
+Answer: 1.  She said, "JavaScript is fun!"

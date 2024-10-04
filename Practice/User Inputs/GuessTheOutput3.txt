@@ -1,0 +1,20 @@
+What does the prompt parameter do?
+
+let x = prompt("Input value of x:");
+
+
+
+Select one of the following options:
+
+1.  Just prints "Input value of x"
+
+2.  Reads a single-character
+
+3.  prints "Input value of x" and then read input from user
+
+4.  None of the above
+
+
+
+
+Answer: 3.  prints "Input value of x" and then read input from user

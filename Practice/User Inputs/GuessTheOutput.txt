@@ -1,0 +1,21 @@
+What does the following code snippet do?
+
+let x = prompt("Enter a number:");
+x = parseInt(x);
+console.log(2 * x);
+
+
+Select one of the following options:
+
+1.  Takes user input and prints the double of the input
+
+2.  Prints the value of x without taking any user input
+
+3.  Multiplies x by 2 and takes the result as input
+
+4.  Raises x to the power of 2
+
+
+
+
+Answer: 1.  Takes user input and prints the double of the input

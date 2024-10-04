@@ -1,0 +1,20 @@
+What is the output of the following code snippet?
+
+let x = 'It\'s a beautiful day';
+console.log(x);
+
+
+Select one of the following options:
+
+1.  Compilation Error
+
+2.  Runtime Error
+
+3.  It's a beautiful day
+
+4.  It\'s a beautiful day
+
+
+
+
+Answer: 3.  It's a beautiful day

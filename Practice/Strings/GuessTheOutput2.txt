@@ -1,0 +1,27 @@
+What does the following code snippet do?
+
+let x = "Learn @ Codechef";
+console.log(x.toUpperCase());
+console.log(x.toLowerCase());
+
+
+Select one of the following options:
+
+1.  learn @ codechef
+    LEARN @ CODECHEF
+
+2.  LEARN @ CODECHEF
+    learn @ codechef
+
+3.  LEARN @ CODECHEFlearn @ codechef
+
+4.  Error : Failed to convert '@'
+
+
+
+
+
+Answer: 
+
+2.  LEARN @ CODECHEF
+    learn @ codechef

@@ -1,0 +1,19 @@
+What is the output of the following code?
+
+let x = prompt("Enter a value:");
+console.log(typeof x);
+
+
+Select one of the following options:
+
+1.  string
+
+2.  number
+
+3.  boolean
+
+4.  None of the Above
+
+
+
+Answer: 1.  string

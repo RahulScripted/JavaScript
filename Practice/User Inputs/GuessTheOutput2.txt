@@ -1,0 +1,21 @@
+What happens if the user enters a non-integer value when the following code runs?
+
+let x = prompt("Enter a number:");
+x = parseInt(x);
+
+
+
+Select one of the following options:
+
+1.  The program crashes
+
+2.  Non-integer value is printed
+
+3.  The program executes without any error
+
+4.  Infinite loop
+
+
+
+
+Answer: 3.  The program executes without any error

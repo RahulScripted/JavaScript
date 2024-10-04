@@ -1,0 +1,24 @@
+What is the output of the following code?
+
+let x = prompt("Enter a value:");
+console.log("Before: " + typeof x);
+
+x = parseInt(x);
+console.log("After: " + typeof x);
+
+
+Select one of the following options:
+
+1.  Before: string, After: number
+
+2.  Before: string, After: integer
+
+3.  Before: character, After: number
+
+4.  Before: character, After: numeric
+
+
+
+
+
+Answer: 1.  Before: string, After: number
