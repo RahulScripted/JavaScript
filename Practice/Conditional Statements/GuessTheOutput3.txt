@@ -1,0 +1,25 @@
+What will be the output of the following code?
+
+let x = 20;
+if (x > 5) console.log("x is greater than 5");
+if (x > 10) console.log("x is greater than 10");
+
+
+Select one of the following options:
+
+1.  x is greater than 5
+
+2.  x is greater than 10
+
+3.  x is greater than 5
+    x is greater than 10
+
+4.  None of the above
+
+
+
+
+Answer: 
+
+3.  x is greater than 5
+    x is greater than 10

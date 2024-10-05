@@ -1,0 +1,21 @@
+What does the following code do?
+
+let marks = 75;
+let grade = 'B';
+if (marks >= 60) grade = 'A';
+
+
+Select one of the following options:
+
+1.  Assigns 'A' to grade if marks are greater than or equal to 60
+
+2.  Assigns 'B' to grade if marks are greater than or equal to 60
+
+3.  Assigns 'A' to grade if marks are less than 60
+
+4.  None of the above
+
+
+
+
+Answer: 1.  Assigns 'A' to grade if marks are greater than or equal to 60

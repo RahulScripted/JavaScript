@@ -1,0 +1,25 @@
+What will be the output of the following code?
+
+let marks = 75;
+let score = 75;
+
+if (marks > score) console.log("marks is greater than score"); 
+else if (score > marks) console.log("score is greater than marks"); 
+else console.log("Both are equal");
+
+
+
+Select one of the following options:
+
+1.  marks is greater than score
+
+2.  score is greater than marks
+
+3.  Both are equal
+
+4.  Throws an error
+
+
+
+
+Answer: 3.  Both are equal

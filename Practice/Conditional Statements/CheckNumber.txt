@@ -1,0 +1,15 @@
+What is the correct way to check if a number is between 10 (non-inclusive) and 20 (inclusive)? Select one of the following options:
+
+1.  if (num > 10 && num <= 20)
+
+2.  if (num > 10 || num <= 20) 
+
+3.  if (num < 10 && num > 20) 
+
+4.  if (num <= 10 || num >= 20)
+
+
+
+
+
+Answer: 1.  if (num > 10 && num <= 20)

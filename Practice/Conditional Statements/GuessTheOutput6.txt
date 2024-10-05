@@ -1,0 +1,15 @@
+What does the following code represent? if (a == b || c != d). Select one of the following options:
+
+1.  Check if both a is equal to b and c is not equal to d
+
+2.  Check if either a is equal to b or c is not equal to d
+
+3.  Both A and B
+
+4.  None of the above
+
+
+
+
+
+Answer: 2.  Check if either a is equal to b or c is not equal to d

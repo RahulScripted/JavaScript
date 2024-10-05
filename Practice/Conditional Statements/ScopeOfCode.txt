@@ -1,0 +1,15 @@
+How is the scope of code defined in JavaScript? Select one of the following options:
+
+1.  Spaces
+
+2.  Tabs
+
+3.  Curly braces
+
+4.  Parentheses
+
+
+
+
+
+Answer: 3.  Curly braces

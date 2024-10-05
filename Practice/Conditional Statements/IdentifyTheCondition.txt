@@ -1,0 +1,15 @@
+Which function in JavaScript is appropriate for checking if a variable x contains a value of null or undefined within an if-else statement? Select one of the following options
+
+1.  isNaN(x)
+
+2.  checkNull(x)
+
+3.  x == null
+
+4.  None of the above
+
+
+
+
+
+Answer:  3.  x == null

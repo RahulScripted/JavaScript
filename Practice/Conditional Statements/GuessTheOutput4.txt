@@ -1,0 +1,25 @@
+What will be the output of the following code?
+
+let x = 5;
+let y = 5;
+if (x > y) console.log("x is greater");
+else if (y >= x) console.log("y is greater");
+else console.log("Both are equal");
+
+
+
+Select one of the following options:
+
+1.  x is greater
+
+2.  y is greater
+
+3.  Both are equal
+
+4.  Throws an error
+
+
+
+
+
+Answer: 2.  y is greater

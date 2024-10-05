@@ -1,0 +1,21 @@
+What does the variable result store?
+
+let result = true || false;
+console.log(result);
+
+
+Select one of the following options:
+
+1.  true
+
+2.  Code produces Compilation error
+
+3.  false
+
+4.  Code produces Runtime error
+
+
+
+
+
+Answer: 1.  true

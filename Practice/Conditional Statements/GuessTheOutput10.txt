@@ -1,0 +1,23 @@
+What is the output of the following code snippet?
+
+let a = true;
+let b = false;
+let c = false;
+console.log((a && b) || (c || a));
+
+
+Select one of the following options:
+
+1.  false
+
+2.  true
+
+3.  Throws an error
+
+4.  None of the above
+
+
+
+
+
+Answer: 2.  true

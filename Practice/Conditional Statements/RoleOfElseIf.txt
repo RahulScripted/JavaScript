@@ -1,0 +1,15 @@
+What is the role of else if in an if-else ladder? Select one of the following options:
+
+1.  To check an additional condition if none of the previous conditions are true
+
+2.  To terminate the program.
+
+3.  To start a new block of code.
+
+4.  To define an alternative condition if the previous one is true
+
+
+
+
+
+Answer: 1.  To check an additional condition if none of the previous conditions are true

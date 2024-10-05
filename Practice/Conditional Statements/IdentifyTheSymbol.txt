@@ -1,0 +1,14 @@
+Which of the following expressions in JavaScript is used for logical OR operation within if conditions? Select one of the following Options
+
+1.  |
+
+2.  &
+
+3.  ||
+
+4.  None of the above
+
+
+
+
+Answer: 3.  ||

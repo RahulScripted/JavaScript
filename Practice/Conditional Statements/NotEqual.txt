@@ -1,0 +1,18 @@
+How do you check if a number is not equal to 5? Select the correct option(s):
+
+1.  if (num == 5)
+
+2.  if (!(num == 5))
+
+3.  if (!(num != 5))
+
+4.  if (num != 5)
+
+
+
+
+Answers: 
+
+2.  if (!(num == 5))
+
+4.  if (num != 5)

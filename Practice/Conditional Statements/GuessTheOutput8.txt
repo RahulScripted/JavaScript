@@ -1,0 +1,21 @@
+Guess the output. What does the following code snippet do?
+
+if (!(x > 0)) {
+    // Code block
+}
+
+
+Select one of the following options:
+
+1.  Executes the code block if x is greater than 0
+
+2.  Executes the code block if x is less than 0
+
+3.  Executes the code block if x is equal to 0
+
+4.  Both option B and C
+
+
+
+
+Answer: 4.  Both option B and C

@@ -1,0 +1,14 @@
+What does the following code represent? if (x > 5 && y < 10). Select one of the following options:
+
+1.  Check if either x is greater than 5 or y is less than 10
+
+2.  Check if both x is greater than 5 and y is less than 10
+
+3.  Check if either x or y is greater than 5
+
+4.  Check if both x and y are greater than 5
+
+
+
+
+Answer: 2.  Check if both x is greater than 5 and y is less than 10
