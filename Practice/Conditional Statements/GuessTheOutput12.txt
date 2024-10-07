@@ -1,0 +1,15 @@
+Which statement best describes the purpose and functionality of a switch case statement in programming ? Select one of the following options:
+
+1.  It exclusively handles integer comparisons
+
+2.  It directs program flow based on variable values
+
+3.  It is only suitable for handling string data
+
+4.  Not supported in Javascript
+
+
+
+
+
+Answer: 2.  It directs program flow based on variable values

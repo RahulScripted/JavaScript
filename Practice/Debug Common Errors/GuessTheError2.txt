@@ -1,0 +1,15 @@
+Which of the following is used to represent missing or undefined values in JavaScript? Select one of the following options:
+
+1.  NaN
+
+2.  undefined
+
+3.  NA
+
+4.  None of the Above
+
+
+
+
+
+Answer: 2.  undefined

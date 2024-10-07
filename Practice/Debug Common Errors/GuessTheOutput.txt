@@ -1,0 +1,21 @@
+What does the length property return when applied to null in JavaScript ?
+
+var a = null;
+console.log(a.length);
+
+
+Select one of the following options:
+
+1.  0 
+
+2.  4
+
+3.  null
+
+4.  error
+
+
+
+
+
+Answer: 4.  error

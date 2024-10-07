@@ -1,0 +1,15 @@
+How do you identify a Compilation error? Select one of the following options:
+
+1.  Checked during runtime
+
+2.  Output does not match expectations
+
+3.  Error messages during compilation
+
+4.  Undefined behavior
+
+
+
+
+
+Answer: 3.  Error messages during compilation

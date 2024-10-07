@@ -1,0 +1,15 @@
+What will be the output of the expression 1/0 in Javascript ? Select one of the following options:
+
+1.  NA
+
+2.  Infinity
+
+3.  NULL
+
+4.  Error
+
+
+
+
+
+Answer: 2.  Infinity

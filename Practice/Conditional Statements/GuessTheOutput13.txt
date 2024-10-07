@@ -1,0 +1,36 @@
+What will be the output of the following code snippet?
+
+let day_number = '3';
+
+let day_name = (() => {
+    switch(day_number) {
+        case '1':
+            return "Sunday";
+        case '2':
+            return "Monday";
+        case '3':
+            return "Tuesday";
+        case '4':
+            return "Wednesday";
+        default:
+            return "Other day";
+    }
+})();
+
+console.log(`Day ${day_number} is: ${day_name}`);
+
+
+Select one of the following options:
+
+1.  Day 2 is: Monday
+
+2.  Day 3 is: Tuesday
+
+3.  Day 3 is: Wednesday
+
+4.  Day 3 is: Other day
+
+
+
+
+Answer: 2.  Day 3 is: Tuesday

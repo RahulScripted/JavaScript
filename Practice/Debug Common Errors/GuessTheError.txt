@@ -1,0 +1,15 @@
+Which of the following statements is true about the JavaScript programming language? Select one of the following options:
+
+1.  JavaScript is an interpreted language.
+
+2.  JavaScript is a compiled language.
+
+3.  JavaScript is neither compiled nor interpreted.
+
+4.  JavaScript is both compiled and interpreted.
+
+
+
+
+
+Answer: 1.  JavaScript is an interpreted language.

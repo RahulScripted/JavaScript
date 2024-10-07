@@ -1,0 +1,15 @@
+Which statement is true about the switch statement in JavaScript for executing only one matching case? Select one of the following options:
+
+1.  Requires break keyword.
+
+2.  No default case.
+
+3.  Only works with strings.
+
+4.  No break needed.
+
+
+
+
+
+Answer: 1.  Requires break keyword.

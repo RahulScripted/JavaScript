@@ -1,0 +1,15 @@
+When should you use a default case in a switch statement ? Select one of the following options:
+
+1.  Only if there are more than 3 cases
+
+2.  When handling unexpected inputs
+
+3.  No concept of default case
+
+4.  Never
+
+
+
+
+
+Answer: 2.  When handling unexpected inputs

@@ -1,0 +1,15 @@
+What happens in a JavaScript switch statement if none of the cases match and there is no default case? Select one of the following options:
+
+1.  It returns undefined
+
+2.  It returns null
+
+3.  It throws an error
+
+4.  Execution continues with the next statement after the switch block
+
+
+
+
+
+Answer: 4.  Execution continues with the next statement after the switch block

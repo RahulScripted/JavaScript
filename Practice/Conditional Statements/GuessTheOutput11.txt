@@ -1,0 +1,22 @@
+Guess the output of following code
+
+let x = true || false;
+console.log(x);
+
+
+
+Select one of the following options
+
+1.  false
+
+2.  true
+
+3.  Throws an error
+
+4.  None of the Above
+
+
+
+
+
+Answer : 2.  true

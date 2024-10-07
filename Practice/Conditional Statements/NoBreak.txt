@@ -1,0 +1,15 @@
+What happens if there is no break statement in a case of a switch statement? Select one of the following options:
+
+1.  It results in a syntax error
+
+2.  It moves to the next case automatically
+
+3.  It exits the switch block once any case matches
+
+4.  It continues to execute the code in the following cases
+
+
+
+
+
+Answer: 4.  It continues to execute the code in the following cases
