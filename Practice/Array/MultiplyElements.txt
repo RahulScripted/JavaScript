@@ -1,0 +1,22 @@
+What is the output of following code snippet
+
+let x = [true, 0];
+console.log(typeof x[0]);
+
+
+
+Select one of the correct option
+
+1.  boolean
+
+2.  number
+
+3.  string
+
+4.  undefined
+
+
+
+
+
+Answer: 1.  boolean

@@ -1,0 +1,20 @@
+What is the output of the following code snippet ?
+
+let x = [1, 2, "Codechef", 4];
+console.log(x[2]);
+
+
+Select one of the following options:
+
+1.  CodeChef
+
+2.  4
+
+3.  2
+
+4.  Runtime Error
+
+
+
+
+Answer: 1.  CodeChef

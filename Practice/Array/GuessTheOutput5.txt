@@ -1,0 +1,24 @@
+What is the output of the following code?
+
+let x = [11, [15, 16], 12, "Codechef", 14];
+x[1] = 12;
+console.log(x);
+
+
+
+
+Select one of the following options:
+
+1.  [11, 12, 16, 12, "Codechef", 15]
+
+2.  [11, 12, 16, 12, "Codechef", 14]
+
+3.  [11, 15, 16, 12, "Codechef", 14]
+
+4.  [11, 12, 12, "Codechef", 14]
+
+
+
+
+
+Answer: 4.  [11, 12, 12, "Codechef", 14]

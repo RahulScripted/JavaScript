@@ -1,0 +1,25 @@
+What is the output of the following code?
+
+let x = [11, [15, 16], 12, "Codechef", 14];
+x[1] = 12;
+console.log(x[0] + x[1]);
+
+
+
+
+Select one of the following options:
+
+1.  26
+
+2.  23
+
+3.  22
+
+4.  Runtime Error
+
+
+
+
+
+
+Answer: 2.  23

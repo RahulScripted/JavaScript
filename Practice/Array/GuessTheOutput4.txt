@@ -1,0 +1,21 @@
+What is the output of the following code snippet ?
+
+let x = [11, 12, "Codechef", 14, [15, 16]];
+console.log(x[4], typeof x[4]);
+
+
+Select one of the following options:
+
+1.  [15, 16] object
+
+2.  [15, 16] array
+
+3.  15, 16 object
+
+4.  15, 16 array
+
+
+
+
+
+Answer: 1.  [15, 16] object

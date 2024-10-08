@@ -1,0 +1,15 @@
+What is the correct way to declare an array in JavaScript? Select one of the following options:
+
+1.  v = [1, 2, 3, 4, 5];
+
+2.  v = VECTOR(1, 2, 3, 4, 5);
+
+3.  v = ARRAY(1, 2, 3, 4, 5);
+
+4.  No concept of arrays
+
+
+
+
+
+Answer: 1.  v = [1, 2, 3, 4, 5];
