@@ -1,0 +1,23 @@
+What does the following code snippet do?
+
+for (let i = 1; i <= 3; i++) {
+  console.log("Hello");
+}
+
+
+Select one of the following options:
+
+1.  Prints "Hello" three times
+
+2.  Prints "Hello" once
+
+3.  Prints "Hello" four times
+
+4.  Prints "Hello" twice
+
+
+
+
+
+
+Answer: 1.  Prints "Hello" three times

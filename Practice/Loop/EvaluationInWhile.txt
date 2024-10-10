@@ -1,0 +1,16 @@
+In a while loop, when does the condition get evaluated? Select one of the following options:
+
+1.  Before each iteration
+
+2.  After each iteration
+
+3.  Only at the start of the loop
+
+4.  Only at the end of the loop
+
+
+
+
+
+
+Answer: 1.  Before each iteration

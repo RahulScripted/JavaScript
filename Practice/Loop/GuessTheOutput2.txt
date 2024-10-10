@@ -1,0 +1,42 @@
+What is the output of following code ?
+
+let dice = 1;
+while (dice <= 3) {
+  if (dice < 3) {
+    console.log("Roll Again");
+  } else {
+    console.log("Go Ahead!");
+  }
+  dice++;
+}
+
+
+Select one of the following options:
+
+1.  Roll Again
+    Roll Again
+    Roll Again
+    Roll Again
+    Go Ahead!
+    Go Ahead!
+
+2.  Roll Again
+    Roll Again
+    Go Ahead!
+
+3.  Roll Again
+    Roll Again
+    Roll Again
+    Go Ahead!
+
+4.  Roll Again
+    Roll Again
+    Go Ahead!
+    Roll Again
+    Go Ahead!
+
+
+
+Answer: 2.  Roll Again
+            Roll Again
+            Go Ahead!

@@ -1,0 +1,24 @@
+What does the following code snippet output?
+
+let x = 0;
+for (let i = 0; i < 5; i++) {
+  x += i;
+}
+console.log(x);
+
+
+Select one of the following options:
+
+1.  10
+
+2.  15
+
+3.  4
+
+4.  5
+
+
+
+
+
+Answer: 1.  10

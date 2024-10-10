@@ -1,0 +1,14 @@
+What happens if the initial condition of a while loop is false? Select one of the following options:
+
+1.  The loop executes once.
+
+2.  The loop runs indefinitely
+
+3.  The loop is skipped, and the code inside is not executed
+
+4.  The loop throws an error
+
+
+
+
+Answer: 3.  The loop is skipped, and the code inside is not executed

@@ -1,0 +1,22 @@
+What does the following code snippet do?
+
+for (let x = 1; x <= 10; x++) {
+  console.log(2 * x);
+}
+
+
+Select one of the following options:
+
+1.  Prints even numbers from 1 to 10
+
+2.  Prints numbers from 1 to 10
+
+3.  Prints multiples of 2 from 2 to 20
+
+4.  Prints numbers from 2 to 20
+
+
+
+
+
+Answer: 3.  Prints multiples of 2 from 2 to 20

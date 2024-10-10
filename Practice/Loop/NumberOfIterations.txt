@@ -1,0 +1,22 @@
+How many times will the following loop iterate?
+
+for (let i = 0; i <= 95; i += 5) {
+  // code block
+}
+
+
+Select one of the following options:
+
+1.  20 times
+
+2.  19 times
+
+3.  100 times
+
+4.  21 times
+
+
+
+
+
+Answer: 1.  20 times

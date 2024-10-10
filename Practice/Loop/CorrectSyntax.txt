@@ -1,0 +1,15 @@
+What is the correct basic syntax of a while loop in JavaScript ? Select one of the following options:
+
+1.  while { condition } ( code )
+
+2.  while ( condition ) { code }
+
+3.  while { code } ( condition )
+
+4.  while ( code ) { condition }
+
+
+
+
+
+Answer: 2.  while ( condition ) { code }

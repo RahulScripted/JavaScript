@@ -1,0 +1,23 @@
+What is the purpose of something in following code snippet ?
+
+for (let i in something) {
+  // code block
+}
+
+
+Select one of the most appropriate Option
+
+1.  Defines the final value of the loop variable
+
+2.  Defines the condition for executing the code block
+
+3.  Defines what the loop iterates over
+
+4.  Defines the initial value of the loop variable
+
+
+
+
+
+
+Answer: 3.  Defines what the loop iterates over

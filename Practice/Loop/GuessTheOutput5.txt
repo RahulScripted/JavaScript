@@ -1,0 +1,25 @@
+What does the following code snippet do?
+
+let x = 1;
+while (x > 0) {
+  console.log(x);
+  x = x + 1;
+} 
+
+
+
+Select one of the following options:
+
+1.  Syntax error
+
+2.  Infinite loop
+
+3.  Compilation error
+
+4.  None of the above 
+
+
+
+
+
+Answer: 2.  Infinite loop
