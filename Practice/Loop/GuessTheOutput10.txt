@@ -1,0 +1,23 @@
+What does the break statement do in the below provided loop?
+
+for (let i = 1; i <= 10; i++) {
+    console.log(i);
+    if (i === 5) break;
+}
+
+
+Select one of the following options:
+
+1.  Exits the loop when i is equal to 5
+
+2.  Continues to the next iteration when i is equal to 5
+
+3.  Skips the loop entirely
+
+4.  Prints numbers from 0 to 10 and skip 5
+
+
+
+
+
+Answer: 1.  Exits the loop when i is equal to 5

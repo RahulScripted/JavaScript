@@ -1,0 +1,15 @@
+How is the continue statement different from the break statement? Select one of the following options:
+
+1.  continue exits the loop entirely, break skips one iteration
+
+2.  continue skips one iteration, break exits the loop entirely
+
+3.  Both continue and break exit the loop
+
+4.  Both continue and break skip one iteration
+
+
+
+
+
+Answer: 2.  continue skips one iteration, break exits the loop entirely

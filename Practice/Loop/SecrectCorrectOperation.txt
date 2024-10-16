@@ -1,0 +1,22 @@
+Which of the following is true about the dataType of i in
+
+for (let i in something) {
+  // code block
+}
+
+
+Select one of the following options:
+
+1.  i is always numeric.
+
+2.  i is always character.
+
+3.   i is always logical.
+
+4.  Depends on dataType of `something`
+
+
+
+
+
+Answer: 4.  Depends on dataType of `something`

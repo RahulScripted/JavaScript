@@ -1,0 +1,22 @@
+Guess the output of following code
+
+for (let i = 1; i <= 3; i++) {
+    console.log("Hello");
+    i += 2;
+}
+
+Select one of the following options:
+
+1.  prints Hello 2 times
+
+2.  prints Hello only once
+
+3.  prints Hello 3 times
+
+4.  No output
+
+
+
+
+
+Answer: 2.  prints Hello only once

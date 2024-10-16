@@ -1,0 +1,28 @@
+What output will the following code produce?
+
+for (let i = 1; i <= 3; i++) {
+    for (let j = 1; j <= 3; j++) {
+        if (i === 2 && j === 2) {
+            continue;
+        }
+        console.log(i * j);
+    }
+}
+
+
+
+Select one of the following options:
+
+1.  Products of i and j excluding 2*2.
+
+2.  Products of i and j including all combinations.
+
+3.  Products of i and j excluding 2.
+
+4.  None of the above.
+
+
+
+
+
+Answer: 1.  Products of i and j excluding 2*2.

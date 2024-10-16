@@ -1,0 +1,28 @@
+What does the following code do?
+
+for (let i = 1; i <= n; i++) {
+    if (i === n) break;
+
+    if (n % i === 0) {
+      console.log(i);
+      continue;
+      console.log(2 * i);
+    }
+  }
+Assume n > 1
+
+
+Select one of the following options:
+
+1.  prints all divisors of n
+
+2.  prints all divisors of n except 1
+
+3.  prints only 1
+
+4.  prints all divisors of n except n
+
+
+
+
+Answer: 4.  prints all divisors of n except n

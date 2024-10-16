@@ -1,0 +1,23 @@
+How does the next statement affect the loop ?
+
+for (let i = 1; i <= 10; i++) {
+  if (i === 2) continue;
+  console.log(i);
+}
+
+
+Select one of the following options:
+
+1.  Exits the loop when i is equal to 2
+
+2.  Continues to the next iteration when i is equal to 2
+
+3.  Skips the loop entirely
+
+4.  Prints numbers from 0 to 4
+
+
+
+
+
+Answer: 2.  Continues to the next iteration when i is equal to 2

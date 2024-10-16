@@ -1,0 +1,26 @@
+How many times will the following loop iterate ?
+
+for (let i = 1; i <= 10; i++) {
+    if (i % 2 !== 0) {
+        continue;
+    }
+    console.log(i);
+}
+
+
+
+Select one of the following options:
+
+1.  10 times
+
+2.  5 times
+
+3.  9 times
+
+4.  6 times
+
+
+
+
+
+Answer: 1.  10 times

@@ -1,0 +1,23 @@
+What does the following code snippet do?
+
+for (let i = 'A'.charCodeAt(0); i <= 'E'.charCodeAt(0); i++) {
+    console.log(String.fromCharCode(i));
+}
+
+
+
+Select one of the following options:
+
+1.  Prints characters from 'A' to 'E'
+
+2.  Prints numbers from 65 to 69
+
+3.  Prints characters from 'A' to 'D'
+
+4.  Runtime Error
+
+
+
+
+
+Answer: 1.  Prints characters from 'A' to 'E'
