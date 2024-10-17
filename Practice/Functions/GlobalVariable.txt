@@ -1,0 +1,15 @@
+Where do we define global variables? Select one of the following options:
+
+1.  Inside a function
+
+2.  Inside a loop
+
+3.  Outside of any function
+
+4.  None of the above
+
+
+
+
+
+Answer: 3.  Outside of any function

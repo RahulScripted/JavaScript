@@ -1,0 +1,15 @@
+What is the difference between Run and Submit in a programming platform? Select one of the following options:
+
+1.  Run is for local testing, Submit checks against hidden test files
+
+2.  Run is for debugging, Submit is for code execution
+
+3.  Run provides public test cases, Submit provides private test cases
+
+4.  Run generates expected output, Submit compares actual and expected output
+
+
+
+
+
+Answer: 1.  Run is for local testing, Submit checks against hidden test files

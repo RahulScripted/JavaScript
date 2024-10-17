@@ -1,0 +1,15 @@
+Which of the following is a predefined function for calculating the square root of a number? Select one of the following options:
+
+1.  Math.pow()
+
+2.  Math.abs()
+
+3.  Math.sqrt()
+
+4.  Math.ceil()
+
+
+
+
+
+Answer: 3.  Math.sqrt()

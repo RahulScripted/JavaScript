@@ -1,0 +1,15 @@
+What does the term "AC" stand for in the context of programming competitions? Select one of the following options:
+
+1.  Automatic Code
+
+2.  Assertion Check
+
+3.  Accepted
+
+4.  Algorithm Complexity
+
+
+
+
+
+Answer: 3.  Accepted

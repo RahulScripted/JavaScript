@@ -1,0 +1,15 @@
+What does the function keyword indicate in a function declaration? Select one of the following options:
+
+1.  It is the name of function
+
+2.  It imports a library for additional functionalities
+
+3.  It tells JavaScript that you are defining a new function
+
+4.  It defines a loop that iterates over a set of values
+
+
+
+
+
+Answer: 3.  It tells JavaScript that you are defining a new function

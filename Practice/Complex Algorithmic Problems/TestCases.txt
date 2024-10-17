@@ -1,0 +1,15 @@
+What do test cases represent in programming competitions? Select one of the following options:
+
+1.  Multiple inputs for the same problem
+
+2.  Single input for a problem
+
+3.  Hidden code snippets
+
+4.  Private test files
+
+
+
+
+
+Answer: 1.  Multiple inputs for the same problem

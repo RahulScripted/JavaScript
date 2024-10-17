@@ -1,0 +1,15 @@
+What does it mean if your code passes custom inputs but fails on private test files? Select one of the following options:
+
+1.  The code needs debugging
+
+2.  Custom inputs are incorrect
+
+3.  Private test files are not relevant
+
+4.  Submit is not required
+
+
+
+
+
+Answer: 1.  The code needs debugging

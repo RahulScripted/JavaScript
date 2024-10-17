@@ -1,0 +1,27 @@
+How is a function defined? Select one of the following options:
+
+1.  function functionName{arguments} ( 
+        // Function body return value; 
+    )
+
+2.  function functionName(arguments) { 
+        // Function body 
+    }
+
+3.  function functionName(arguments) { 
+        return value; 
+    }
+
+4.  function functionName(arguments) { 
+        // Function body 
+        // Optional return statement 
+    }
+
+
+
+
+
+Answer: 4.  function functionName(arguments) { 
+            // Function body 
+            // Optional return statement 
+        }

@@ -1,0 +1,33 @@
+What is the output of the following code?
+
+let a = 5;
+
+function myFunction() {
+    let a = 10;
+    console.log(a);
+}
+
+myFunction();
+console.log(a);
+
+
+
+Select one of the following options:
+
+1.  5 
+    10
+
+2.  10
+    5
+
+3.  10
+    10
+
+4.  5
+    5
+
+
+
+
+Answer: 2.  10
+            5
