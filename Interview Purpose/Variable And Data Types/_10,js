@@ -1,0 +1,11 @@
+// Use const to create an array. Try reassigning the array and observe the error
+
+
+
+const arr = [];
+arr = [6];
+
+// Assignment to constant variable. 
+for(let i = 0;i < arr.length;i++){
+    console.log(arr[i] + " "); 
+}
